@@ -2,3 +2,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.ckpt
 *.h5
+01_kwta/kwta_debug.log
+01_kwta/kwta_spresnet18_0.1_cifar_adv.pth
+01_kwta/data/*

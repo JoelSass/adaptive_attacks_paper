@@ -1,0 +1,11 @@
+name: kwta-attack
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - pytorch
+  - torchvision
+  - numpy
+  - eagerpy
+  - pip:
+    - "git+https://github.com/bethgelab/foolbox.git"
